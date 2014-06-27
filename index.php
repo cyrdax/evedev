@@ -11,4 +11,6 @@ foreach($typeids as $typeid)
     $price=round($price,2);
     echo $typeid." ".$price."\n";
 }
+
+
 ?>
